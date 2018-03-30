@@ -16,6 +16,7 @@ p {color:#EE5A24;
 	width: 100%;
 	max-width: 1200px;
 	margin: 0 auto;
+	display: -ms-flexbox;
 	display: flex;
 }
 
